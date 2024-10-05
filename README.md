@@ -23,7 +23,7 @@ Virtual File System is a C++ project that simulates a file system from scratch u
 - **`exit`**: Exit the VFS program.
 
 ## Usage
-<img src='https://imgur.com/a/2nAu39H.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Assignment 111](https://github.com/user-attachments/assets/bb4d3ed1-bc8c-42a6-9b59-300044439f6b)
 
 
 ## License
